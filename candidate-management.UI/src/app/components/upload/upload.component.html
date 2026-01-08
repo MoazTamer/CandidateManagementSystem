@@ -1,0 +1,42 @@
+<!-- src/app/components/upload/upload.component.html -->
+
+<div class="upload-container">
+  <h2>Upload Candidates File</h2>
+  
+  <div class="upload-section">
+    <input 
+      type="file" 
+      id="fileInput"
+      (change)="onFileSelected($event)" 
+      accept=".txt"
+      [disabled]="isUploading">
+    
+    <button 
+      (click)="uploadFile()" 
+      [disabled]="!selectedFile || isUploading">
+      {{ isUploading ? 'Uploading...' : 'Upload File' }}
+    </button>
+  </div>
+
+  <div *ngIf="errorMessage" class="error-message">
+    {{ errorMessage }}
+  </div>
+
+  <div *ngIf="uploadResult" class="result-section">
+    <h3>Upload Results:</h3>
+    <ul>
+      <li>Total Records: {{ uploadResult.totalRecords }}</li>
+      <li>Loaded Records: {{ uploadResult.loadedRecords }}</li>
+      <li>Duplicates Ignored: {{ uploadResult.duplicatesIgnored }}</li>
+      <li>Invalid Emails Ignored: {{ uploadResult.invalidEmailsIgnored }}</li>
+      <li>Invalid Nicknames Ignored: {{ uploadResult.invalidNicknamesIgnored }}</li>
+    </ul>
+    
+    <div *ngIf="uploadResult.errors && uploadResult.errors.length > 0">
+      <h4>Errors:</h4>
+      <ul>
+        <li *ngFor="let error of uploadResult.errors">{{ error }}</li>
+      </ul>
+    </div>
+  </div>
+</div>

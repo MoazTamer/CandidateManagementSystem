@@ -1,0 +1,68 @@
+<div class="form-container">
+  <h2>{{ isEditMode ? 'Edit Candidate' : 'Add New Candidate' }}</h2>
+
+  <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+
+  <form *ngIf="!isLoading" (ngSubmit)="saveCandidate()">
+    <div class="form-group">
+      <label for="name">Name *</label>
+      <input 
+        type="text" 
+        id="name" 
+        [(ngModel)]="candidate.name" 
+        name="name" 
+        required>
+    </div>
+
+    <div class="form-group">
+      <label for="nickname">Nickname *</label>
+      <input 
+        type="text" 
+        id="nickname" 
+        [(ngModel)]="candidate.nickname" 
+        name="nickname" 
+        required
+        placeholder="Must contain digit followed by special char (§,®,™,©,ʬ,@)">
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email *</label>
+      <input 
+        type="email" 
+        id="email" 
+        [(ngModel)]="candidate.email" 
+        name="email" 
+        required>
+    </div>
+
+    <div class="form-group">
+      <label for="yearsOfExperience">Years of Experience *</label>
+      <input 
+        type="number" 
+        id="yearsOfExperience" 
+        [(ngModel)]="candidate.yearsOfExperience" 
+        name="yearsOfExperience" 
+        min="0" 
+        required>
+    </div>
+
+    <div class="form-group">
+      <label for="maxNumSkills">Max Number of Skills</label>
+      <input 
+        type="number" 
+        id="maxNumSkills" 
+        [(ngModel)]="candidate.maxNumSkills" 
+        name="maxNumSkills" 
+        min="0">
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" [disabled]="isLoading">
+        {{ isLoading ? 'Saving...' : 'Save' }}
+      </button>
+      <button type="button" (click)="cancel()">Cancel</button>
+    </div>
+  </form>
+
+  <div *ngIf="isLoading" class="loading">Loading...</div>
+</div>

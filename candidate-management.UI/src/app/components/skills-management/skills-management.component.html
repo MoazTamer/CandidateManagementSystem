@@ -1,0 +1,95 @@
+<!-- src/app/components/skills-management/skills-management.component.html -->
+
+<div class="skills-container">
+  <div class="header">
+    <h2>Manage Skills for {{ candidate?.name }}</h2>
+    <button (click)="goBack()">Back to List</button>
+  </div>
+
+  <div *ngIf="candidate" class="candidate-info">
+    <p><strong>Email:</strong> {{ candidate?.email }}</p>
+    <p><strong>Years of Experience:</strong> {{ candidate?.yearsOfExperience }}</p>
+    <p><strong>Max Skills:</strong> {{ candidate?.maxNumSkills || 'Unlimited' }}</p>
+    <p><strong>Current Skills:</strong> {{ candidate?.skills?.length || 0 }}</p>
+  </div>
+
+  <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+
+  <!-- Add New Skill -->
+  <div class="add-skill-section">
+    <h3>Add New Skill</h3>
+    <div class="skill-form">
+      <input 
+        type="text" 
+        [(ngModel)]="newSkill.name" 
+        placeholder="Skill name (no numbers)"
+        [disabled]="isAddingSkill">
+      
+      <input 
+        type="date" 
+        [(ngModel)]="newSkill.gainDate"
+        [max]="getMaxDate()"
+        [min]="getMinDate()"
+        [disabled]="isAddingSkill">
+      
+      <button (click)="addSkill()" [disabled]="isAddingSkill">
+        {{ isAddingSkill ? 'Adding...' : 'Add Skill' }}
+      </button>
+    </div>
+    <p class="hint">Skill gain date must be between {{ getMinDate() }} and {{ getMaxDate() }}</p>
+  </div>
+
+  <!-- Skills List -->
+  <div class="skills-list">
+    <h3>Current Skills</h3>
+    
+    <div *ngIf="!candidate?.skills || candidate.skills.length === 0" class="no-data">
+      No skills added yet.
+    </div>
+
+    <table *ngIf="candidate?.skills && candidate.skills.length > 0">
+      <thead>
+        <tr>
+          <th>Skill Name</th>
+          <th>Gain Date</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let skill of candidate.skills">
+          <td>
+            <span *ngIf="editingSkill?.id !== skill.id">{{ skill.name }}</span>
+            <input 
+              *ngIf="editingSkill?.id === skill.id" 
+              type="text" 
+              [(ngModel)]="editingSkill.name">
+          </td>
+          <td>
+            <span *ngIf="editingSkill?.id !== skill.id">{{ skill.gainDate | date }}</span>
+            <input 
+              *ngIf="editingSkill?.id === skill.id" 
+              type="date" 
+              [(ngModel)]="editingSkill.gainDate"
+              [max]="getMaxDate()"
+              [min]="getMinDate()">
+          </td>
+          <td class="actions">
+            <button 
+              *ngIf="editingSkill?.id !== skill.id"
+              (click)="startEditSkill(skill)">Edit</button>
+            <button 
+              *ngIf="editingSkill?.id === skill.id"
+              (click)="updateSkill()">Save</button>
+            <button 
+              *ngIf="editingSkill?.id === skill.id"
+              (click)="cancelEdit()">Cancel</button>
+            <button 
+              *ngIf="editingSkill?.id !== skill.id"
+              (click)="deleteSkill(skill.id!)" 
+              class="delete">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

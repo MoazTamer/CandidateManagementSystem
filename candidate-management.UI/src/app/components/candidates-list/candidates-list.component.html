@@ -1,0 +1,42 @@
+<div class="candidates-container">
+  <div class="header">
+    <h2>Candidates List</h2>
+    <button (click)="addNewCandidate()">Add New Candidate</button>
+  </div>
+
+  <div *ngIf="isLoading" class="loading">Loading...</div>
+  <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+
+  <div *ngIf="!isLoading && candidates.length === 0" class="no-data">
+    No candidates found. Please upload a file first.
+  </div>
+
+  <table *ngIf="!isLoading && candidates.length > 0">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Nickname</th>
+        <th>Email</th>
+        <th>Years of Experience</th>
+        <th>Max Skills</th>
+        <th>Skills Count</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let candidate of candidates">
+        <td>{{ candidate.name }}</td>
+        <td>{{ candidate.nickname }}</td>
+        <td>{{ candidate.email }}</td>
+        <td>{{ candidate.yearsOfExperience }}</td>
+        <td>{{ candidate.maxNumSkills || 'N/A' }}</td>
+        <td>{{ candidate.skills?.length || 0 }}</td>
+        <td class="actions">
+          <button (click)="editCandidate(candidate.id!)">Edit</button>
+          <button (click)="manageSkills(candidate.id!)">Skills</button>
+          <button (click)="deleteCandidate(candidate.id!)" class="delete">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
