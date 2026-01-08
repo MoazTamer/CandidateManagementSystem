@@ -1,0 +1,15 @@
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\bin\Debug\net8.0\CandidateManagementSystem.BL.deps.json
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\bin\Debug\net8.0\CandidateManagementSystem.BL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\bin\Debug\net8.0\CandidateManagementSystem.BL.pdb
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\bin\Debug\net8.0\CandidateManagementSystem.DAL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\bin\Debug\net8.0\CandidateManagementSystem.DAL.pdb
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.csproj.AssemblyReference.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.AssemblyInfoInputs.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.AssemblyInfo.cs
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\Candidat.7B240DDA.Up2Date
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\refint\CandidateManagementSystem.BL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.pdb
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\ref\CandidateManagementSystem.BL.dll

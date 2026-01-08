@@ -1,0 +1,14 @@
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\bin\Debug\net8.0\CandidateManagementSystem.DAL.deps.json
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\bin\Debug\net8.0\CandidateManagementSystem.DAL.runtimeconfig.json
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\bin\Debug\net8.0\CandidateManagementSystem.DAL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\bin\Debug\net8.0\CandidateManagementSystem.DAL.pdb
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.AssemblyInfo.cs
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\refint\CandidateManagementSystem.DAL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.pdb
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\CandidateManagementSystem.DAL.genruntimeconfig.cache
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.DAL\obj\Debug\net8.0\ref\CandidateManagementSystem.DAL.dll

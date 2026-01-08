@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\services\\implementation\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\services\\implementation\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Migrations\\20260108071917_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CandidateManagementSystem.DAL\\Migrations\\20260108071917_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|solutionrelative:candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|solutionrelative:candidatemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|solutionrelative:candidatemanagementsystem\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\services\\implementation\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\services\\implementation\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\services\\interfaces\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\services\\interfaces\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\validators\\nicknamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\validators\\nicknamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\services\\implementation\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\services\\implementation\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\services\\interfaces\\ifileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\services\\interfaces\\ifileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\services\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\services\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\validators\\skillvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\validators\\skillvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\dtos\\fileuploadresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\dtos\\fileuploadresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.bl\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6328C62F-2204-4A4A-8FCE-FC7358A7FBD2}|CandidateManagementSystem.BL\\CandidateManagementSystem.BL.csproj|solutionrelative:candidatemanagementsystem.bl\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\repositories\\skill\\skillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\repositories\\skill\\skillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\repositories\\candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\repositories\\candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\repositories\\skill\\iskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\repositories\\skill\\iskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\repositories\\candidate\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\repositories\\candidate\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.dal\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F87DD7-26B6-4C78-880D-6EFF0D09F2A6}|CandidateManagementSystem.DAL\\CandidateManagementSystem.DAL.csproj|solutionrelative:candidatemanagementsystem.dal\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|d:\\projects\\.net\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF4C03B2-22D0-4A59-A488-23DA10B7E978}|CandidateManagementSystem\\CandidateManagementSystem.API.csproj|solutionrelative:candidatemanagementsystem\\candidatemanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260108071917_First.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Migrations\\20260108071917_First.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Migrations\\20260108071917_First.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Migrations\\20260108071917_First.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Migrations\\20260108071917_First.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:19:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\appsettings.json",
+              "RelativeToolTip": "CandidateManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T07:08:43.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\Program.cs",
+              "RelativeToolTip": "CandidateManagementSystem\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:07:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\CandidatesController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "CandidateManagementSystem\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:00:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileProcessingService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\implementation\\FileProcessingService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Services\\implementation\\FileProcessingService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\implementation\\FileProcessingService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Services\\implementation\\FileProcessingService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:29:17.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\implementation\\CandidateService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Services\\implementation\\CandidateService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\implementation\\CandidateService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Services\\implementation\\CandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:41:42.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\implementation\\ValidationService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Services\\implementation\\ValidationService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\implementation\\ValidationService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Services\\implementation\\ValidationService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:22:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\Interfaces\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Services\\Interfaces\\ICandidateService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\Interfaces\\ICandidateService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Services\\Interfaces\\ICandidateService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:20:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NicknameValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Validators\\NicknameValidator.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Validators\\NicknameValidator.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Validators\\NicknameValidator.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Validators\\NicknameValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:12:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFileProcessingService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\Interfaces\\IFileProcessingService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Services\\Interfaces\\IFileProcessingService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\Interfaces\\IFileProcessingService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Services\\Interfaces\\IFileProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:20:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IValidationService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\Interfaces\\IValidationService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Services\\Interfaces\\IValidationService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Services\\Interfaces\\IValidationService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Services\\Interfaces\\IValidationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:19:39.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SkillValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Validators\\SkillValidator.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Validators\\SkillValidator.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Validators\\SkillValidator.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Validators\\SkillValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:16:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\DTOs\\CandidateDto.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\DTOs\\CandidateDto.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\DTOs\\CandidateDto.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\DTOs\\CandidateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:10:23.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Validators\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\Validators\\EmailValidator.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\Validators\\EmailValidator.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\Validators\\EmailValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:15:39.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileUploadResultDto.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\DTOs\\FileUploadResultDto.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\DTOs\\FileUploadResultDto.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\DTOs\\FileUploadResultDto.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\DTOs\\FileUploadResultDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:12:04.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SkillDto.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\DTOs\\SkillDto.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.BL\\DTOs\\SkillDto.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.BL\\DTOs\\SkillDto.cs",
+              "RelativeToolTip": "CandidateManagementSystem.BL\\DTOs\\SkillDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:11:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:34:45.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICandidateRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Candidate\\ICandidateRepository.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Repositories\\Candidate\\ICandidateRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Candidate\\ICandidateRepository.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Repositories\\Candidate\\ICandidateRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:35:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISkillRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Skill\\ISkillRepository.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Repositories\\Skill\\ISkillRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Skill\\ISkillRepository.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Repositories\\Skill\\ISkillRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:36:07.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Candidate\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Repositories\\Candidate\\CandidateRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Candidate\\CandidateRepository.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Repositories\\Candidate\\CandidateRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:35:56.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkillRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Skill\\SkillRepository.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Repositories\\Skill\\SkillRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Repositories\\Skill\\SkillRepository.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Repositories\\Skill\\SkillRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:36:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Entities\\Skill.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Entities\\Skill.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Entities\\Skill.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:35:14.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.DAL\\Entities\\Candidate.cs",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.DAL\\Entities\\Candidate.cs",
+              "RelativeToolTip": "CandidateManagementSystem.DAL\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:35:03.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CandidateManagementSystem.API.csproj",
+              "DocumentMoniker": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\CandidateManagementSystem.API.csproj",
+              "ToolTip": "D:\\Projects\\.Net\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.API.csproj",
+              "RelativeToolTip": "CandidateManagementSystem\\CandidateManagementSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T04:30:30.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
