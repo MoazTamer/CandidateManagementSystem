@@ -13,3 +13,4 @@ D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateMa
 D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\refint\CandidateManagementSystem.BL.dll
 D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.pdb
 D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\ref\CandidateManagementSystem.BL.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem.BL\obj\Debug\net8.0\CandidateManagementSystem.BL.sourcelink.json

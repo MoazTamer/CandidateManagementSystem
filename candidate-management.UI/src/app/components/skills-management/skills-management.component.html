@@ -7,10 +7,10 @@
   </div>
 
   <div *ngIf="candidate" class="candidate-info">
-    <p><strong>Email:</strong> {{ candidate?.email }}</p>
-    <p><strong>Years of Experience:</strong> {{ candidate?.yearsOfExperience }}</p>
-    <p><strong>Max Skills:</strong> {{ candidate?.maxNumSkills || 'Unlimited' }}</p>
-    <p><strong>Current Skills:</strong> {{ candidate?.skills?.length || 0 }}</p>
+    <p><strong>Email:</strong> {{ candidate.email }}</p>
+    <p><strong>Years of Experience:</strong> {{ candidate.yearsOfExperience }}</p>
+    <p><strong>Max Skills:</strong> {{ candidate.maxNumSkills || 'Unlimited' }}</p>
+    <p><strong>Current Skills:</strong> {{ candidate.skills?.length || 0 }}</p>
   </div>
 
   <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
@@ -43,11 +43,11 @@
   <div class="skills-list">
     <h3>Current Skills</h3>
     
-    <div *ngIf="!candidate?.skills || candidate.skills.length === 0" class="no-data">
+    <div *ngIf="!hasSkills()" class="no-data">
       No skills added yet.
     </div>
 
-    <table *ngIf="candidate?.skills && candidate.skills.length > 0">
+    <table *ngIf="hasSkills()">
       <thead>
         <tr>
           <th>Skill Name</th>
@@ -56,18 +56,18 @@
         </tr>
       </thead>
       <tbody>
-        <tr *ngFor="let skill of candidate.skills">
+        <tr *ngFor="let skill of getSkills()">
           <td>
             <span *ngIf="editingSkill?.id !== skill.id">{{ skill.name }}</span>
             <input 
-              *ngIf="editingSkill?.id === skill.id" 
+              *ngIf="editingSkill?.id === skill.id && editingSkill" 
               type="text" 
               [(ngModel)]="editingSkill.name">
           </td>
           <td>
             <span *ngIf="editingSkill?.id !== skill.id">{{ skill.gainDate | date }}</span>
             <input 
-              *ngIf="editingSkill?.id === skill.id" 
+              *ngIf="editingSkill?.id === skill.id && editingSkill" 
               type="date" 
               [(ngModel)]="editingSkill.gainDate"
               [max]="getMaxDate()"

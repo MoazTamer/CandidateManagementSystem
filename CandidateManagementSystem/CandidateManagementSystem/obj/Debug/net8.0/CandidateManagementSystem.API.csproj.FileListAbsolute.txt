@@ -148,3 +148,4 @@ D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateMa
 D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\.Net\CandidateManagementSystem\CandidateManagementSystem\CandidateManagementSystem\obj\Debug\net8.0\CandidateManagementSystem.API.sourcelink.json

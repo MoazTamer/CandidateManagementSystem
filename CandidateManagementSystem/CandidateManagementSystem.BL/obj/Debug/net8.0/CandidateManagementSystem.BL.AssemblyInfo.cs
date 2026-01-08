@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CandidateManagementSystem.BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5de6bd685e1885a3b757b49edda49b3d28cad24d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CandidateManagementSystem.BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CandidateManagementSystem.BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
